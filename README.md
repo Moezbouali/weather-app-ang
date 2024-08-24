@@ -14,7 +14,6 @@ Pour commencer à utiliser l’application, suivez ces étapes :
 	1.	Clonez le Dépôt :
 Téléchargez le code source de l’application en clonant le dépôt GitHub :
    - git clone https://github.com/yourusername/your-weather-app.git
-   - 
 Remplacez "yourusername' et your-weather-app par votre nom d’utilisateur GitHub et le nom du dépôt.
 
 	2.	Accédez au Répertoire du Projet :
